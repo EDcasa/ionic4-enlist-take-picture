@@ -2,10 +2,10 @@
 Enlist all photos that are takes with the app.
 This app is development with Ionic4
 
-#Install
-Clone App
-Execute npm install
-Execute ionic serve
+# Install
+*Clone App
+*Execute npm install
+*Execute ionic serve
 
-#Note
+# Note
 Execute in device.
